@@ -19,7 +19,7 @@ This is a simple web application that calculates the day of the week you were bo
 - JavaScript
 
 ##  How to Use
-1. Open the live site: {https://osteendev.github.io/my-akan-name/}
+1. Open the live site: {https://github.com/osteendev/my-akan-name/settings/pages}
 2. Enter your birthdate
 3. Choose your gender
 4. Click “Get My Akan Name” to see your result
